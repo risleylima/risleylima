@@ -1,7 +1,11 @@
 # 💫 About Me:
 
-💼&nbsp;&nbsp;&nbsp;I'm Working on [Paraná Moda Park](http://paranamodapark.com.br) as IT Coordinator.<br><br>🔭&nbsp;&nbsp;&nbsp;I'm Looking to collaborate on helping others to improve their skills, and learn together them.<br><br>🤝&nbsp;&nbsp;&nbsp;I'm Looking for help with discover what is really necessary and important to others, and to build solutions that help them to achieve their goals.<br><br>🌱&nbsp;&nbsp;&nbsp;I'm Current learning how to implement tools that help us to lead the IT Management to the next level, and how to generate better reports with Python 3.<br><br>❓&nbsp;&nbsp;&nbsp;Ask me questions about anything, and I will try to explain, or you will make me learn all that I can about that.<br><br>📢&nbsp;&nbsp;&nbsp;Fun fact: Nothing is really what it appears to be.<br><br>
-
+- 💼&nbsp;&nbsp;&nbsp;I'm Working on [Paraná Moda Park](http://paranamodapark.com.br) as IT Coordinator.
+- 🔭&nbsp;&nbsp;&nbsp;I'm Looking to collaborate on helping others to improve their skills, and learn together them.
+- 🤝&nbsp;&nbsp;&nbsp;I'm Looking for help with discover what is really necessary and important to others, and to build solutions that help them to achieve their goals.
+- 🌱&nbsp;&nbsp;&nbsp;I'm Current learning how to implement tools that help us to lead the IT Management to the next level, and how to generate better reports with Python 3.
+- ❓&nbsp;&nbsp;&nbsp;Ask me questions about anything, and I will try to explain, or you will make me learn all that I can about that.
+- 📢&nbsp;&nbsp;&nbsp;Fun fact: Nothing is really what it appears to be.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/risleylima) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/risley-lima) <br><br>
