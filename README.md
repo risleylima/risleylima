@@ -15,6 +15,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=risleylima&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
+![Snake animation](https://github.com/risleylima/risleylima/blob/output/github-contribution-grid-snake.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=risleylima&label=Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
